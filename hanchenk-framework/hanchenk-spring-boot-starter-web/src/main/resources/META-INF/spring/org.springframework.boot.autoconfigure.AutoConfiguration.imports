@@ -1,0 +1,6 @@
+com.hanchenk.love.framework.apilog.config.HanchenkApiLogAutoConfiguration
+com.hanchenk.love.framework.jackson.config.HanchenkJacksonAutoConfiguration
+com.hanchenk.love.framework.swagger.config.HanchenkSwaggerAutoConfiguration
+com.hanchenk.love.framework.web.config.HanchenkWebAutoConfiguration
+com.hanchenk.love.framework.xss.config.HanchenkXssAutoConfiguration
+com.hanchenk.love.framework.banner.config.HanchenkBannerAutoConfiguration

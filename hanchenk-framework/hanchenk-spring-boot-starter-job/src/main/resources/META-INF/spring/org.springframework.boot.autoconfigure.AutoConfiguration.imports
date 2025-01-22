@@ -1,0 +1,2 @@
+com.hanchenk.love.framework.quartz.config.HanchenkQuartzAutoConfiguration
+com.hanchenk.love.framework.quartz.config.HanchenkAsyncAutoConfiguration

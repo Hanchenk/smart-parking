@@ -1,0 +1,3 @@
+com.hanchenk.love.framework.datasource.config.HanchenkDataSourceAutoConfiguration
+com.hanchenk.love.framework.mybatis.config.HanchenkMybatisAutoConfiguration
+com.hanchenk.love.framework.translate.config.HanchenkTranslateAutoConfiguration

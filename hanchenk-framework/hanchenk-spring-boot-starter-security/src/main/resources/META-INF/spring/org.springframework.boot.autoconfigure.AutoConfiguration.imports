@@ -1,0 +1,3 @@
+com.hanchenk.love.framework.security.config.HanchenkSecurityAutoConfiguration
+com.hanchenk.love.framework.security.config.HanchenkWebSecurityConfigurerAdapter
+com.hanchenk.love.framework.operatelog.config.HanchenkOperateLogConfiguration

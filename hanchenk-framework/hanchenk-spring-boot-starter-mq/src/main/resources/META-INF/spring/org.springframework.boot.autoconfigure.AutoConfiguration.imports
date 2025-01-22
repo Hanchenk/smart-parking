@@ -1,0 +1,3 @@
+com.hanchenk.love.framework.mq.redis.config.HanchenkRedisMQProducerAutoConfiguration
+com.hanchenk.love.framework.mq.redis.config.HanchenkRedisMQConsumerAutoConfiguration
+com.hanchenk.love.framework.mq.rabbitmq.config.HanchenkRabbitMQAutoConfiguration

@@ -1,0 +1,4 @@
+com.hanchenk.love.framework.idempotent.config.HanchenkIdempotentConfiguration
+com.hanchenk.love.framework.lock4j.config.HanchenkLock4jConfiguration
+com.hanchenk.love.framework.ratelimiter.config.HanchenkRateLimiterConfiguration
+com.hanchenk.love.framework.signature.config.HanchenkApiSignatureAutoConfiguration
